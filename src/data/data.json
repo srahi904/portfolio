@@ -1,0 +1,118 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website built with React and Tailwind CSS.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(18).png?updatedAt=1751741295554",
+      "link": "https://yourportfolio.com"
+    },
+    {
+      "title": "E-commerce Store",
+      "description": "An online store with shopping cart functionality using React and Redux.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(17).png?updatedAt=1751741295734",
+      "link": "https://amazon-clone-smoky-two.vercel.app/"
+    },
+    {
+      "title": "Tic Tac Toe with real time chat",
+      "description": "A classic game of Tic Tac Toe with a real-time chat feature.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(15).png?updatedAt=1751741295544",
+      "link": "https://tic-tac-toe-talk.vercel.app/"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A full-featured blog platform developed with Next.js and Markdown support.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(19).png?updatedAt=1751741295676",
+      "link": "#"
+    },
+    {
+      "title": "Food Delivery App",
+      "description": "A food delivery app with only the frontend built with React.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(20).png?updatedAt=1751741295777",
+      "link": "#"
+    },
+    {
+      "title": "Recipe Finder",
+      "description": "Discover recipes based on ingredients you have with filtering options.",
+      "image": "https://ik.imagekit.io/rahi/Portfolio/Screenshot%20(20).png?updatedAt=1751741295777",
+      "link": "#"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "SASS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+    },
+    {
+      "name": "JAVASCRIPT",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "REACT JS",
+      "icon": "https://icon.icepanel.io/Technology/svg/React.svg"
+    },
+    {
+      "name": "GITHUB",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    },
+    {
+      "name": "NODE JS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "FIREBASE",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+      "name": "MONGODB",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "TYPESCRIPT",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "POSTMAN",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+    },
+    {
+      "name": "PYTHON",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    },
+    {
+      "name": "JAVA",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    },
+    {
+      "name": "EXPRESS",
+      "icon": "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"
+    },
+    {
+      "name": "NEXT JS",
+      "icon": "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+    },
+    {
+      "name": "TAILWIND CSS",
+      "icon": "https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg"
+    },
+    {
+      "name": "REDUX",
+      "icon": "https://cdn.worldvectorlogo.com/logos/redux.svg"
+    },
+    {
+      "name": "GIT",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    },
+    {
+      "name": "BOOTSTRAP",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    }
+  ]
+}

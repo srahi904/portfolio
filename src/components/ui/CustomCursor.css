@@ -1,0 +1,68 @@
+/**
+ * Hide native cursor
+ *
+ * @format
+ */
+
+html {
+  cursor: none;
+}
+
+/* INNER CURSOR VARIANTS */
+.cursor-light {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
+.cursor-dark {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  background-color: white; /* light cursor on dark mode */
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
+/* OUTER RING VARIANTS */
+.cursor-ring-light {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  animation: pulse-ring 1.5s infinite ease-out;
+}
+
+.cursor-ring-dark {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgba(255, 255, 255, 0.4); /* softer white glow */
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  animation: pulse-ring 1.5s infinite ease-out;
+}
+
+@keyframes pulse-ring {
+  from {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: translate(-50%, -50%) scale(1.5);
+    opacity: 0;
+  }
+}
