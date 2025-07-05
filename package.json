@@ -9,6 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@lottiefiles/dotlottie-react": "^0.13.3",
@@ -26,6 +29,7 @@
     "react-router-dom": "^7.5.0",
     "react-scroll": "^1.9.3",
     "react-simple-typewriter": "^5.0.1",
+    "rollup": "^4.44.2",
     "three": "^0.175.0"
   },
   "devDependencies": {
