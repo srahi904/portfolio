@@ -24,7 +24,7 @@ const SocialLinks = () => {
       </p>
       <div className="flex justify-center space-x-4">
         <motion.a
-          href="https://twitter.com/yourusername"
+          href="https://x.com/srahi904"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ y: -3 }}
@@ -33,7 +33,7 @@ const SocialLinks = () => {
           <FaTwitter size={20} />
         </motion.a>
         <motion.a
-          href="https://instagram.com/yourusername"
+          href="https://www.instagram.com/srahi904/"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ y: -3 }}
@@ -42,7 +42,7 @@ const SocialLinks = () => {
           <FaInstagram size={20} />
         </motion.a>
         <motion.a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/srahi904/"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ y: -3 }}
@@ -51,7 +51,7 @@ const SocialLinks = () => {
           <FaLinkedin size={20} />
         </motion.a>
         <motion.a
-          href="https://github.com/yourusername"
+          href="https://github.com/srahi904"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ y: -3 }}
